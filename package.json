@@ -1,0 +1,17 @@
+{
+  "name": "datatable",
+  "version": "1.0.0",
+  "description": "vue component for display datatable",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vue",
+    "table",
+    "data",
+    "datatable"
+  ],
+  "author": "Fiacre Dossou AYEDOUN",
+  "license": "ISC"
+}
